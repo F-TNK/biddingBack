@@ -8,7 +8,7 @@ public class Conexao {
 
     private static final String url = "jdbc:mysql://localhost:3306/db_bidding_system";
     private static final String usuario = "root";
-    private static final String senha = "joaopauloor21";
+    private static final String senha = "fabio";
     private static Connection conn = null;
 
     private Conexao() {
